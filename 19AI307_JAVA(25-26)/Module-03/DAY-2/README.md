@@ -9,7 +9,7 @@ To write a Java program that demonstrates method overriding using inheritance an
 ## ALGORITHM :
 1.	Start the program.
 2.	Import the necessary package 'java.util'
-3.		Override the sound() method in each subclass to print specific sounds.
+3.	Override the sound() method in each subclass to print specific sounds.
 4.	In main(), use an Animal reference to point to each subclass object.
 5.	Call the sound() method to demonstrate runtime polymorphism.
 
