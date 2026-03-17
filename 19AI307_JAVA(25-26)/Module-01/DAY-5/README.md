@@ -39,7 +39,7 @@ RegisterNumber:212224100007
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.util.*;
 
 class prog{
